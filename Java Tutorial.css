@@ -50,7 +50,7 @@ body {
 
 @media only screen and (max-width: 600px) {
     .main-nav {
-        font-size: 0.5em;
+        font-size: 0.4em;
         padding: 0;
     }
 }
@@ -96,8 +96,12 @@ a {
 }
 
 .javaimage{
-    margin-left: 10%;
+    text-align: center;
+    justify-content: center;
+    display:flex;
 }
+
+
 
 
 /***********************************************************************
